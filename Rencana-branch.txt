@@ -1,5 +1,6 @@
-ini adalah branches
+
 ini branches sedang dicommit
 coba-coba conflict
+
 
 ini untuk conflict branch
