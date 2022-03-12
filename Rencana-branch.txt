@@ -1,5 +1,6 @@
 
 ini branches sedang dicommit
-ini bakal jadi conflict hehe
+coba-coba conflict
+
 
 ini untuk conflict branch
