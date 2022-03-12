@@ -3,3 +3,4 @@ WPU RESOLUSI
 -Konsisten dalam belajar Python
 -Konsisten belajar bahasa Inggris
 -Membuat automatisasi crypto trade
+- tidak ada
